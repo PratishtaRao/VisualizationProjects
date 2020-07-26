@@ -1,4 +1,3 @@
-# Visualization Projects
-# Intro
+# Introduction
 
 This repository consists all the visualization projects using R 
