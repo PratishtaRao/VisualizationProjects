@@ -1,1 +1,1 @@
-# VisualizationProjects
+# Visualization Projects
